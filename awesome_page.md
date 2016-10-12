@@ -10,4 +10,4 @@
 </body>
 </html>```
 [Awesome article](https://www.google.com/)
-![Screenshot1](GPS1.tiff)
+![Screenshot1](GPS1.jpg)
